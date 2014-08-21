@@ -1,0 +1,7 @@
+C:\Users\Barış\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\İmla Klavuzu.exe
+C:\Users\Barış\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\İmla Klavuzu.pdb
+C:\Users\Barış\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\Barış\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\İmla Klavuzu.csproj.GenerateResource.Cache
+C:\Users\Barış\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\İmla Klavuzu.exe
+C:\Users\Barış\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\İmla Klavuzu.pdb
+C:\Users\Barış\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\k.Properties.Resources.resources
